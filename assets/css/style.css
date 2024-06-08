@@ -293,6 +293,12 @@ footer {
     margin: 40px 20px;
 }
 
+/*---------------------------------Visit page*/
+.su-youtube {
+    margin: 0 auto;
+    display: block;
+  }
+
 /*---------------------------------Work History */
 
 .history-heading {
